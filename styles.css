@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+.box {
+	text-align: center;
+	position: center;
+	background-color: lightblue;
+	border: 2px solid black;
+	
+}
